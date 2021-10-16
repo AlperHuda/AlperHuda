@@ -1,4 +1,4 @@
-### Hi there this is Pig [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
+### Hi there this is Alper [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DPIPIPIG233666&longCache=true)](https://github.com/PIPIPIG233666)
 [![SimurgAnka github stats](https://github-readme-stats.vercel.app/api?username=SimurgAnka&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/SimurgAnka)
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning C++, ASM, python
 - 🤔 I’m looking for help with my brain
-- 💬 Ask me about Android device bringup (Qualcomm only) or on how to brick your device (both software and hardware wise)😂
+- 💬 Ask me about Android device bringup (Exynos only) or on how to brick your device.
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-pig.priv@gmail.com-red?style=flat-square&logo=gmail)](mailto:pig.priv@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
 - I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) 
