@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning C++, ASM, python
 - 🤔 I’m looking for help with my brain
 - 💬 Ask me about Android device bringup (Exynos only) or on how to brick your device.
-- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-hudalper@gmail.com-red?style=flat-square&logo=gmail)](mailto:hudalper@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/SimurgAnka)
+- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-hudalper@gmail.com-red?style=flat-square&logo=gmail)](mailto:hudalper@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Alper-blue?style=flat-square&logo=telegram)](https://t.me/SimurgAnka)
 
 <div align="center">
 
