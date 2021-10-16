@@ -17,10 +17,6 @@
 - 💬 Ask me about Android device bringup (Exynos only) or on how to brick your device.
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-pig.priv@gmail.com-red?style=flat-square&logo=gmail)](mailto:pig.priv@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
-- I'm maintaining LineageOS for Xiaomi Mi 9T/Redmi K20 aka davinci/davinciin [![Redmi K20](https://img.shields.io/badge/Redmi%20K20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/global/mi-9-t/) ,[![Telegram](https://img.shields.io/badge/dynamic/json?logo=telegram&label=%40LineageOSDavinci&labelColor=282c34&suffix=+members&color=2CA5E0&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dlineagedavinciofficial&longCache=true)](https://t.me/lineagedavinciofficial) 
-- if you enjoy my work, feel free to sponsor me via 
-<noscript><a href="https://liberapay.com/Pig/donate"><img src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript> or 
-<a href="https://www.paypal.me/pig236"><img height="32" src="https://github.com/everdrone/coolbadge/blob/master/badges/Paypal/Beer/Dark/Big.png" alt="Help me pay for my server using PayPal" />
 <div align="center">
 <img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/Pig">
 <img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/Pig">
