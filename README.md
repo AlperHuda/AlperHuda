@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
-  [![PC:Casper C900](https://img.shields.io/badge/PC-Casper%20C900%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.lenovo.com/us/en/laptops/legion-laptops/legion-7-series/Legion-7-16ITH6/p/LEN101G0002) is
+  [![PC:Casper C900](https://img.shields.io/badge/PC-Casper%20C900%20-blue?style=flat-square&logo=lenovo&logoColor=ffffff)](https://www.epey.com/laptop/casper-nirvana-c900-7700-8tg0x.html) is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com) within [![VmWare](https://img.shields.io/badge/VmWare-Workstation%20Pro-white?style=flat-square&logo=vmware&logoColor=ffffff)](https://www.vmware.com/)
   
