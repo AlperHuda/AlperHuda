@@ -18,6 +18,5 @@
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-pig.priv@gmail.com-red?style=flat-square&logo=gmail)](mailto:pig.priv@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-pig-blue?style=flat-square&logo=telegram)](https://t.me/pipipig233666)
 
 <div align="center">
-<img alt="Liberapay receiving" src="https://img.shields.io/liberapay/receives/Pig">
-<img alt="Liberapay goal progress" src="https://img.shields.io/liberapay/goal/Pig">
+
 <div/>
