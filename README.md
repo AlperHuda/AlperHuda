@@ -1,5 +1,5 @@
 ### Hi there this is Alper 
-[![SimurgAnka github stats](https://github-readme-stats.vercel.app/api?username=SimurgAnka&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/SimurgAnka)
+[![SimurgAnka github stats](https://github-readme-stats.vercel.app/api?username=SimurgAnka&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/AlperHuda)
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning C#, PHP, Python
 - 🤔 I’m looking for help with my brain
 - 💬 Ask me about Android device bringup (Exynos and Qualcomm) or on how to brick your device.
-- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-hudalper@gmail.com-red?style=flat-square&logo=gmail)](mailto:hudalper@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Alper-blue?style=flat-square&logo=telegram)](https://t.me/SimurgAnka)
+- 📫 How to reach me: [![email](https://img.shields.io/badge/Email-hudalper@gmail.com-red?style=flat-square&logo=gmail)](mailto:hudalper@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Alper-blue?style=flat-square&logo=telegram)](https://t.me/AlperHuda)
 
 <div align="center">
 
