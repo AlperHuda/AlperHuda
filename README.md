@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
-  [![PC:Acer AN515-58](https://img.shields.io/badge/PC-Acer%20Nitro%20-red?style=flat-square&logo=acer&logoColor=ffffff)]https://www.acer.com/tr-tr/laptops/nitro/nitro-5/pdp/NH.QFMEY.003) is
+  [![PC:Acer AN515-58](https://img.shields.io/badge/PC-Acer%20Nitro%20-red?style=flat-square&logo=acer&logoColor=ffffff)](https://www.acer.com/tr-tr/laptops/nitro/nitro-5/pdp/NH.QFMEY.003) is
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com)
   
