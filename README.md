@@ -7,7 +7,7 @@
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com),
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com)
   
-  and [![POCO F6](https://img.shields.io/badge/POCO%20F6-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/global/f6/](https://www.mi.com/tr/product/poco-f6/)) with
+  and [![POCO F6](https://img.shields.io/badge/POCO%20F6-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)]([https://www.mi.com/global/f6/](https://www.mi.com/tr/product/poco-f6/)]) with
   [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
   
 
