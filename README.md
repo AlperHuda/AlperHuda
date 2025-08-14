@@ -8,11 +8,11 @@
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com)
   
   and [![POCO F6](https://img.shields.io/badge/POCO%20F6-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tr/product/poco-f6/) with
-  [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
+  [![OS:Android15](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
   
 
-- 🌱 I’m currently learning Python, C#, PHP, JS
-- 🤔 I am trying to improve myself on Data Science
+- 🌱 I’m currently learning Python, NextJs, React, C#, JS
+- 🤔 I am trying to improve myself on Data Science and Artifical Intelligence
 - 🤔 I’m looking for help with my brain
 - 💬 Ask me about Android device bringup (Exynos and Qualcomm) or on how to brick your device.
 - 📫 How to reach me: [![email](https://img.shields.io/badge/Email-hudalper@gmail.com-red?style=flat-square&logo=gmail)](mailto:hudalper@gmail.com), / [![telegram](https://img.shields.io/badge/Telegram-Alper-blue?style=flat-square&logo=telegram)](https://t.me/AlperHuda)
