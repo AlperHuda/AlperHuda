@@ -8,7 +8,7 @@
   [![OS:Ubuntu](https://img.shields.io/badge/OS-Ubuntu-red?style=flat-square&logo=ubuntu)](https://ubuntu.com)
   
   and [![POCO F6](https://img.shields.io/badge/POCO%20F6-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/tr/product/poco-f6/) with
-  [![OS:Android15](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
+  [![OS:Android15](https://img.shields.io/badge/OS-Android15-green?style=flat-square&logo=android)](https://www.android.com/)
   
 
 - 🌱 I’m currently learning Python, NextJs, React, C#, JS
