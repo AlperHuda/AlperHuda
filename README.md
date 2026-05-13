@@ -1,6 +1,4 @@
 ### Hi there this is Alper i am computer engineering student.
-[![SimurgAnka github stats](https://github-readme-stats.vercel.app/api?username=AlperHuda&hide=issues&show_icons=true&include_all_commits=true&theme=dracula)](https://github.com/AlperHuda)
-
 - 🔭 I’m currently working on [![LineageOS](https://img.shields.io/badge/LineageOS-167b80?style=flat-square&logo=lineageos)](https://github.com/LineageOS)
 - 💻 My current setup on
   [![PC:ASUS TUF F16 ](https://img.shields.io/badge/PC-ASUS%20TUF%20-red?style=flat-square&logo=asus&logoColor=ffffff)](https://www.asus.com/tr/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f16-2025/) is
